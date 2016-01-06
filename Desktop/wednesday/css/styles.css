@@ -1,0 +1,32 @@
+h1 {
+  font-size: bold;
+  font-family: cursive;
+  text-align: center;
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 35px;
+  font-style: italic;
+  text-align: center;
+}
+
+h3 {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+}
+
+ul.flashy {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  color: red;
+}
+ul.best {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  font-weight: bold;
+  color: blue;
+}
